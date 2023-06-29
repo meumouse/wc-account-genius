@@ -1,40 +1,40 @@
 {
-	"name": "Parcelas Customizadas para WooCommerce",
-	"version": "2.7.2",
-	"download_url": "https://github.com/meumouse/woo-custom-installments/raw/main/dist/woo-custom-installments.zip",
+	"name": "Account Genius - Modelo profissional de página Minha conta para WooCommerce",
+	"version": "1.0.0",
+	"download_url": "https://github.com/meumouse/wc-account-genius/raw/main/dist/wc-account-genius.zip",
 
 	"homepage": "https://meumouse.com/docs/plugins/parcelas-customizadas-para-woocommerce/",
 	"requires": "4.5",
 	"tested": "6.2.1",
-	"last_updated": "2023-06-20 23:26:00",
+	"last_updated": "2023-06-30 23:26:00",
 	"upgrade_notice": "",
 
 	"author": "MeuMouse.com",
 	"author_homepage": "https://meumouse.com/",
 
 	"sections": {
-		"description": "https://meumouse.com/docs/parcelas-customizadas-para-woocommerce/#description",
-		"installation": "https://meumouse.com/docs/parcelas-customizadas-para-woocommerce/#install",
-		"changelog": "https://meumouse.com/docs/parcelas-customizadas-para-woocommerce/#changelogs",
+		"description": "",
+		"installation": "",
+		"changelog": "",
 		"tela": ""
 	},
 	
 	"icons" : {
-		"1x" : "https://github.com/meumouse/woo-custom-installments/blob/main/dist/images/icon-128-woo-custom-installments.png",
-		"2x" : "https://github.com/meumouse/woo-custom-installments/blob/main/dist/images/icon-256-woo-custom-installments.png"
+		"1x" : "",
+		"2x" : ""
     },
 
 	"banners": {
-		"low": "https://github.com/meumouse/woo-custom-installments/blob/main/dist/images/banner-low-woo-custom-installments.png",
-		"high": "https://github.com/meumouse/woo-custom-installments/blob/main/dist/images/banner-high-woo-custom-installments.png"
+		"low": "",
+		"high": ""
 	},
 
 	"translations": [
 	],
 
-	"rating": 90,
-	"num_ratings": 67,
+	"rating": 0,
+	"num_ratings": 0,
 
-	"downloaded": 1253,
-	"active_installs": 1173
+	"downloaded": 0,
+	"active_installs": 0
 }
