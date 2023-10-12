@@ -1,12 +1,12 @@
 {
 	"name": "Account Genius - Modelo profissional de página Minha conta para WooCommerce",
-	"version": "1.3.0",
+	"version": "1.5.0",
 	"download_url": "https://github.com/meumouse/wc-account-genius/raw/main/dist/wc-account-genius.zip",
 
 	"homepage": "https://meumouse.com/docs/plugins/account-genius",
 	"requires": "4.5",
 	"tested": "6.2.2",
-	"last_updated": "2023-07-11 21:52:00",
+	"last_updated": "2023-10-12 20:58:00",
 	"upgrade_notice": "",
 
 	"author": "MeuMouse.com",
