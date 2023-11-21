@@ -31,7 +31,9 @@ Você pode instalar um plugin WordPress de duas maneiras: via o painel de admini
 ### Registro de alterações (Changelogs):
 
 Versão 1.6.0 (20/11/2023)
-* Compatibilidade om High Performanec Order Table (HPOS)
+* Correção de bugs
+* Otimizações
+* Compatibilidade com High Performance Order Storage (HPOS) do WooCommerce
 
 Versão 1.5.0 (12/10/2023)
 * Correção de bugs
