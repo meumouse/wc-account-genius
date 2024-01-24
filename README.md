@@ -30,6 +30,12 @@ Você pode instalar um plugin WordPress de duas maneiras: via o painel de admini
 
 ### Registro de alterações (Changelogs):
 
+Versão 1.8.0 (24/01/2024)
+* Correção de bugs
+* Otimizações
+* Novo recurso adicionado: Adição e personalização de guias no painel de cliente
+* Novo recurso adicionado: Desativar guias nativas do WooCommerce
+
 Versão 1.6.1 (11/12/2023)
 * Correção de bugs
 
