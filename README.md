@@ -30,6 +30,11 @@ Você pode instalar um plugin WordPress de duas maneiras: via o painel de admini
 
 ### Registro de alterações (Changelogs):
 
+Versão 1.8.5 (06/04/2024)
+* Correção de bugs
+* Otimizações
+* Compatibilidade com Clube M
+
 Versão 1.8.1 (02/03/2024)
 * Alteração de servidor de verificação de licenças
 
