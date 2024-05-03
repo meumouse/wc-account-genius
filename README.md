@@ -30,6 +30,11 @@ Você pode instalar um plugin WordPress de duas maneiras: via o painel de admini
 
 ### Registro de alterações (Changelogs):
 
+Versão 2.0.0 (03/05/2024)
+* Correção de bugs
+* Otimizações
+* Recurso adicionado: Classe CSS da guia
+
 Versão 1.8.5 (06/04/2024)
 * Correção de bugs
 * Otimizações
