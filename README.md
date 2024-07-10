@@ -30,6 +30,14 @@ Você pode instalar um plugin WordPress de duas maneiras: via o painel de admini
 
 ### Registro de alterações (Changelogs):
 
+Versão 2.1.0 (09/07/2024)
+* Correção de bugs
+  ** Prioridade das guias ao atualizar
+* Otimizações
+* Compatibilidade com tema Woodmart
+* Compatibilidade com tema Astra
+* Recurso modificado: Ícone da guia - Biblioteca de ícones visual
+
 Versão 2.0.0 (03/05/2024)
 * Correção de bugs
 * Otimizações
