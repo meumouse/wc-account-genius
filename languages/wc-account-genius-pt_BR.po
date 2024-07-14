@@ -1,0 +1,847 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Account Genius para WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-11-21 02:13+0000\n"
+"PO-Revision-Date: 2023-11-21 02:21+0000\n"
+"Last-Translator: \n"
+"Language-Team: Português do Brasil\n"
+"Language: pt_BR\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.6; wp-6.4.1\n"
+"X-Domain: wc-account-genius"
+
+#. 1: formatted order total 2: total order items
+#: includes/templates/my-account/orders.php:97
+#, php-format
+msgid "%1$s para %2$s item"
+msgid_plural "%1$s para %2$s itens"
+msgstr[0] "%1$s para %2$s item"
+msgstr[1] "%1$s para %2$s itens"
+
+#: includes/templates/order/order-downloads.php:59
+msgid "&infin;"
+msgstr "&infin;"
+
+#: wc-account-genius.php:245
+msgid ""
+"<strong>Account Genius para WooCommerce</strong> requer a versão do PHP 7.2 "
+"ou maior. Contate o suporte da sua hospedagem para realizar a atualização."
+msgstr ""
+"<strong>Account Genius para WooCommerce</strong> requer a versão do PHP 7.2 "
+"ou maior. Contate o suporte da sua hospedagem para realizar a atualização."
+
+#: wc-account-genius.php:257
+msgid ""
+"<strong>Account Genius para WooCommerce</strong> requer a versão do "
+"WooCommerce 6.0 ou maior. Faça a atualização do plugin WooCommerce."
+msgstr ""
+"<strong>Account Genius para WooCommerce</strong> requer a versão do "
+"WooCommerce 6.0 ou maior. Faça a atualização do plugin WooCommerce."
+
+#: wc-account-genius.php:273
+msgid ""
+"<strong>Account Genius</strong> requer que <strong>WooCommerce</strong> "
+"esteja instalado e ativado."
+msgstr ""
+"<strong>Account Genius para WooCommerce</strong> requer que <strong>"
+"WooCommerce</strong> esteja instalado e ativado."
+
+#: includes/classes/class-wc-account-genius-api.php:336
+msgid "A extensão cURL está faltando."
+msgstr "A extensão cURL está faltando."
+
+#: includes/admin/settings.php:43
+msgid "A licença foi desativada"
+msgstr "A licença foi desativada"
+
+#: includes/classes/class-wc-account-genius-updater.php:241
+msgid "A versão do plugin Account Genius é a mais recente."
+msgstr "A versão do plugin Account Genius é a mais recente."
+
+#: includes/admin/tabs/about.php:113
+msgid "A versão mínima exigida do PHP é 7.2"
+msgstr "A versão mínima exigida do PHP é 7.2"
+
+#: includes/admin/tabs/about.php:92
+msgid "A versão mínima exigida do WooCommerce é 6.0"
+msgstr "A versão mínima exigida do WooCommerce é 6.0"
+
+#. page title
+#: includes/admin/class-wc-account-genius-admin-options.php:34
+msgid "Account Genius"
+msgstr "Account Genius"
+
+#. parent page slug
+#. Name of the plugin
+#: includes/admin/class-wc-account-genius-admin-options.php:33
+msgid "Account Genius para WooCommerce"
+msgstr "Account Genius para WooCommerce"
+
+#: includes/templates/my-account/my-address.php:62
+msgid "Adicionar"
+msgstr "Adicionar"
+
+#: wc-account-genius.php:287
+msgid "Ajuda"
+msgstr "Ajuda"
+
+#: includes/classes/class-wc-account-genius-avatar.php:152
+msgid "Arraste e solte a imagem aqui"
+msgstr "Arraste e solte a imagem aqui"
+
+#: includes/admin/settings.php:20
+msgid "As configurações foram atualizadas!"
+msgstr "As configurações foram atualizadas!"
+
+#: includes/templates/my-account/my-subscriptions.php:22
+msgid "Assinatura"
+msgstr "Assinatura"
+
+#: includes/admin/tabs/options.php:33
+msgid "Ativar exibição de ícones"
+msgstr "Ativar exibição de ícones"
+
+#: includes/admin/settings.php:118
+msgid "Ativar licença"
+msgstr "Ativar licença"
+
+#: includes/admin/tabs/options.php:44
+msgid "Ativar o envio de imagem de perfil"
+msgstr "Ativar o envio de imagem de perfil"
+
+#: includes/admin/tabs/options.php:11
+msgid "Ativar substituição do modelo padrão"
+msgstr "Ativar substituição do modelo padrão"
+
+#: includes/admin/tabs/options.php:22
+msgid "Ativar substituição do modelo padrão de avisos"
+msgstr "Ativar substituição do modelo padrão de avisos"
+
+#: includes/admin/tabs/design.php:21
+msgid ""
+"Ative esta opção para inserir um fundo inclinado na página de Minha conta do "
+"WooCommerce."
+msgstr ""
+"Ative esta opção para inserir um fundo inclinado na página de Minha conta do "
+"WooCommerce."
+
+#: includes/admin/tabs/options.php:45
+msgid "Ative esta opção para permitir que o usuário altere sua foto de perfil."
+msgstr ""
+"Ative esta opção para permitir que o usuário altere sua foto de perfil."
+
+#: includes/admin/tabs/options.php:34
+msgid "Ative esta opção para que os ícones sejam carregados no front-end."
+msgstr "Ative esta opção para que os ícones sejam carregados no front-end."
+
+#: includes/admin/tabs/options.php:12
+msgid ""
+"Ative esta opção para substituir o modelo padrão da página de Minha conta do "
+"WooCommerce."
+msgstr ""
+"Ative esta opção para substituir o modelo padrão da página de Minha conta do "
+"WooCommerce."
+
+#: includes/admin/tabs/options.php:23
+msgid ""
+"Ative esta opção para substituir o modelo padrão de avisos do WooCommerce."
+msgstr ""
+"Ative esta opção para substituir o modelo padrão de avisos do WooCommerce."
+
+#: includes/admin/tabs/about.php:79
+msgid "Ativo"
+msgstr "Ativo"
+
+#: includes/templates/my-account/view-order.php:37
+msgid "Atualizações de pedidos"
+msgstr "Atualizações de pedidos"
+
+#: includes/templates/my-account/orders.php:174
+msgid "Carregar mais pedidos"
+msgstr "Carregar mais pedidos"
+
+#: includes/templates/my-account/orders.php:170
+msgid "Carregar pedidos anteriores"
+msgstr "Carregar pedidos anteriores"
+
+#: includes/admin/settings.php:10
+msgid "Central de ajuda"
+msgstr "Central de ajuda"
+
+#. 1: first result 2: last result 3: total results
+#: includes/templates/my-account/orders.php:150
+#, php-format
+msgctxt "com primeiro e último pedido"
+msgid "Mostrando %1$d de %2$d pedido"
+msgid_plural "Mostrando %1$d de %2$d pedido"
+msgstr[0] "Mostrando %1$d de %2$d pedido"
+msgstr[1] "Mostrando %1$d de %2$d pedido"
+
+#. 1: first result 2: last result 3: total results
+#: includes/templates/my-account/orders.php:153
+#, php-format
+msgctxt "com primeiro e último pedido"
+msgid "Mostrando %1$d&ndash;%2$d de %3$d pedido"
+msgid_plural "Mostrando %1$d&ndash;%2$d de %3$d pedidos"
+msgstr[0] "Mostrando %1$d&ndash;%2$d de %3$d pedido"
+msgstr[1] "Mostrando %1$d&ndash;%2$d de %3$d pedidos"
+
+#: includes/admin/settings.php:107
+msgid "Comprar licença"
+msgstr "Comprar licença"
+
+#: includes/templates/order/order-again.php:22
+msgid "Comprar novamente"
+msgstr "Comprar novamente"
+
+#: wc-account-genius.php:286
+msgid "Configurar"
+msgstr "Configurar"
+
+#: includes/templates/my-account/form-edit-account.php:79
+msgid "Confirmar nova senha"
+msgstr "Confirmar nova senha"
+
+#: includes/templates/my-account/form-login.php:224
+#: includes/templates/my-account/form-login.php:225
+msgid "Confirmar senha"
+msgstr "Confirmar senha"
+
+#: includes/admin/tabs/design.php:11
+msgid "Cor principal"
+msgstr "Cor principal"
+
+#: includes/admin/settings.php:114
+msgid "Código da licença"
+msgstr "Código da licença"
+
+#: includes/classes/class-wc-account-genius-api.php:618
+msgid "Dados inválidos."
+msgstr "Dados inválidos."
+
+#: includes/admin/tabs/about.php:79
+msgid "Desativado"
+msgstr "Desativado"
+
+#: includes/admin/tabs/about.php:61
+msgid "Desativar licença"
+msgstr "Desativar licença"
+
+#: includes/admin/tabs/about.php:288
+msgid "Desligado"
+msgstr "Desligado"
+
+#: includes/templates/order/order-details.php:44
+msgid "Detalhes do pedido"
+msgstr "Detalhes do pedido"
+
+#: includes/admin/tabs/about.php:124
+msgid "DOMDocument:"
+msgstr "DOMDocument:"
+
+#: includes/templates/order/order-downloads.php:24
+msgid "Downloads"
+msgstr "Downloads"
+
+#: includes/templates/my-account/form-login.php:119
+#: includes/templates/my-account/form-login.php:208
+msgid "E-mail"
+msgstr "E-mail"
+
+#: includes/templates/order/form-tracking.php:34
+msgid "E-mail de cobrança"
+msgstr "E-mail de cobrança"
+
+#: includes/templates/order/form-tracking.php:35
+msgid "E-mail que você usou durante a finalização da compra."
+msgstr "E-mail que você usou durante a finalização da compra."
+
+#: includes/templates/my-account/my-address.php:62
+msgid "Editar"
+msgstr "Editar"
+
+#: includes/templates/order/form-tracking.php:31
+msgid "Encontrado no e-mail de confirmação do seu pedido."
+msgstr "Encontrado no e-mail de confirmação do seu pedido."
+
+#: includes/templates/my-account/form-edit-address.php:20
+#: includes/templates/my-account/my-address.php:26
+#: includes/templates/my-account/my-address.php:35
+#: includes/templates/order/order-details-customer.php:26
+msgid "Endereço de cobrança"
+msgstr "Endereço de cobrança"
+
+#: includes/templates/my-account/form-edit-account.php:48
+msgid "Endereço de e-mail"
+msgstr "Endereço de e-mail"
+
+#: includes/templates/my-account/form-edit-address.php:20
+#: includes/templates/my-account/my-address.php:27
+#: includes/templates/order/order-details-customer.php:50
+msgid "Endereço de entrega"
+msgstr "Endereço de entrega"
+
+#: includes/templates/my-account/form-login.php:152
+#: includes/templates/my-account/form-login.php:246
+msgid "Entrar"
+msgstr "Entrar"
+
+#: includes/classes/class-wc-account-genius-avatar.php:163
+msgid "Enviar"
+msgstr "Enviar"
+
+#: includes/templates/my-account/form-lost-password.php:41
+msgid "Enviaremos um e-mail com um código temporário."
+msgstr "Enviaremos um e-mail com um código temporário."
+
+#: includes/classes/class-wc-account-genius-avatar.php:169
+msgid "Envie uma imagem JPG, JPEG, GIF, PNG ou WebP. Tamanho máximo de 5MB."
+msgstr "Envie uma imagem JPG, JPEG, GIF, PNG ou WebP. Tamanho máximo de 5MB."
+
+#: includes/classes/class-wc-account-genius-avatar.php:122
+msgid "Erro ao enviar arquivo."
+msgstr "Erro ao enviar arquivo."
+
+#: includes/classes/class-wc-account-genius-api.php:249
+msgid "Erro de resposta, entre em contato com o suporte ou atualize o plugin."
+msgstr "Erro de resposta, entre em contato com o suporte ou atualize o plugin."
+
+#: includes/templates/my-account/form-login.php:146
+msgid "Esqueceu sua senha?"
+msgstr "Esqueceu sua senha?"
+
+#: includes/classes/class-wc-account-genius-avatar.php:118
+msgid "Este tipo de arquivo não é permitido."
+msgstr "Este tipo de arquivo não é permitido."
+
+#: includes/admin/settings.php:76
+msgid "Estilos"
+msgstr "Estilos"
+
+#: includes/admin/tabs/design.php:20
+msgid "Exibir fundo inclinado na página Minha conta"
+msgstr "Exibir fundo inclinado na página Minha conta"
+
+#: includes/admin/tabs/about.php:140
+msgid "Extensão cURL:"
+msgstr "Extensão cURL:"
+
+#. Description of the plugin
+msgid ""
+"Extensão que altera o modelo de página minha conta padrão do WooCommerce por "
+"um modelo profissional e responsivo."
+msgstr ""
+"Extensão que altera o modelo de página minha conta padrão do WooCommerce por "
+"um modelo profissional e responsivo."
+
+#: includes/admin/settings.php:9
+msgid ""
+"Extensão que permite alterar o modelo de página minha conta padrão do "
+"WooCommerce por um modelo profissional e responsivo. Se precisar de ajuda "
+"para configurar, acesse nossa"
+msgstr ""
+"Extensão que permite alterar o modelo de página minha conta padrão do "
+"WooCommerce por um modelo profissional e responsivo. Se precisar de ajuda "
+"para configurar, acesse nossa"
+
+#: includes/classes/class-wc-account-genius-avatar.php:83
+msgid "Foto de perfil alterada com sucesso!"
+msgstr "Foto de perfil alterada com sucesso!"
+
+#: includes/classes/class-wc-account-genius-avatar.php:75
+msgid "Foto de perfil removida com sucesso!"
+msgstr "Foto de perfil removida com sucesso!"
+
+#: includes/templates/order/form-tracking.php:25
+msgctxt "front-end"
+msgid "Formulário de rastreamento de pedidos"
+msgstr "Formulário de rastreamento de pedidos"
+
+#: includes/wc-account-genius-functions.php:59
+msgctxt "front-end"
+msgid "Histórico de pedidos"
+msgstr "Histórico de pedidos"
+
+#: includes/wc-account-genius-functions.php:65
+msgctxt "front-end"
+msgid "Meus endereços"
+msgstr "Meus endereços"
+
+#: includes/wc-account-genius-functions.php:53
+msgctxt "front-end"
+msgid "Minha conta"
+msgstr "Minha conta"
+
+#: includes/wc-account-genius-functions.php:62
+msgctxt "front-end"
+msgid "Métodos de pagamento"
+msgstr "Métodos de pagamento"
+
+#: includes/wc-account-genius-functions.php:69
+msgctxt "front-end"
+msgid "Painel"
+msgstr "Painel"
+
+#: includes/admin/tabs/about.php:284
+msgid "Função PHP \"file_get_content\":"
+msgstr "Função PHP \"file_get_content\":"
+
+#: includes/admin/settings.php:72
+msgid "Geral"
+msgstr "Geral"
+
+#: includes/templates/my-account/my-subscriptions.php:35
+#, php-format
+msgctxt "hash antes do número do pedido"
+msgid "#%s"
+msgstr "#%s"
+
+#. Author URI of the plugin
+msgid "https://meumouse.com/"
+msgstr "https://meumouse.com/"
+
+#. URI of the plugin
+msgid "https://meumouse.com/plugins/account-genius/"
+msgstr "https://meumouse.com/plugins/account-genius/"
+
+#: includes/templates/my-account/my-subscriptions.php:34
+msgid "ID"
+msgstr "ID"
+
+#: includes/templates/order/form-tracking.php:30
+msgid "ID do pedido"
+msgstr "ID do pedido"
+
+#: includes/admin/tabs/about.php:10
+msgid "Informações sobre a licença:"
+msgstr "Informações sobre a licença:"
+
+#: includes/admin/settings.php:113
+msgid "Informe sua licença abaixo para desbloquear todos os recursos."
+msgstr "Informe sua licença abaixo para desbloquear todos os recursos."
+
+#: includes/templates/my-account/form-lost-password.php:49
+msgid "Insira seu endereço de e-mail"
+msgstr "Insira seu endereço de e-mail"
+
+#: includes/admin/tabs/about.php:15
+msgid "Inválida"
+msgstr "Inválida"
+
+#: includes/templates/my-account/form-login.php:246
+msgid "Já tem uma conta? "
+msgstr "Já tem uma conta? "
+
+#: includes/templates/my-account/view-order.php:43
+msgid "l jS \\o\\f F Y, h:ia"
+msgstr "l jS \\o\\f F Y, h:ia"
+
+#: includes/templates/my-account/form-login.php:142
+msgid "Lembrar de mim"
+msgstr "Lembrar de mim"
+
+#: includes/admin/settings.php:30
+msgid "Licença ativada com sucesso!"
+msgstr "Licença ativada com sucesso!"
+
+#: includes/admin/tabs/about.php:29
+msgid "Licença expira em:"
+msgstr "Licença expira em:"
+
+#: includes/admin/tabs/about.php:292
+msgid "Ligado"
+msgstr "Ligado"
+
+#: includes/admin/tabs/about.php:242
+msgid "Limite de memória do PHP:"
+msgstr "Limite de memória do PHP:"
+
+#: includes/admin/tabs/about.php:198
+msgid "Limite de tempo do PHP:"
+msgstr "Limite de tempo do PHP:"
+
+#: includes/templates/my-account/my-account.php:66
+msgid "Menu da conta"
+msgstr "Menu da conta"
+
+#. Author of the plugin
+msgid "MeuMouse.com"
+msgstr "MeuMouse.com"
+
+#: includes/admin/tabs/about.php:78
+msgid "Modo de depuração do WordPress:"
+msgstr "Modo de depuração do WordPress:"
+
+#: includes/templates/my-account/orders.php:141
+msgid "Mostrando o único pedido"
+msgstr "Mostrando o único pedido"
+
+#. %d: total results
+#: includes/templates/my-account/orders.php:144
+msgid "Mostrando todos os %d pedidos"
+msgid_plural "Mostrando todos os %d pedidos"
+msgstr[0] "Mostrando todos os %d pedidos"
+msgstr[1] "Mostrando todos os %d pedidos"
+
+#: includes/templates/order/order-details-customer.php:30
+#: includes/templates/order/order-details-customer.php:54
+msgid "N/A"
+msgstr "N/A"
+
+#: includes/classes/class-wc-account-genius-avatar.php:108
+msgid "Nenhum arquivo selecionado."
+msgstr "Nenhum arquivo selecionado."
+
+#: includes/templates/my-account/orders.php:182
+msgid "Nenhum pedido feito ainda."
+msgstr "Nenhum pedido feito ainda."
+
+#: includes/templates/my-account/form-edit-account.php:29
+msgid "Nome"
+msgstr "Nome"
+
+#: includes/templates/my-account/form-login.php:202
+msgid "Nome completo"
+msgstr "Nome completo"
+
+#: includes/templates/my-account/form-edit-account.php:43
+msgid "Nome de exibição"
+msgstr "Nome de exibição"
+
+#: includes/templates/my-account/form-edit-account.php:68
+msgid "Nova senha (deixe em branco para não alterar)"
+msgstr "Nova senha (deixe em branco para não alterar)"
+
+#: includes/templates/order/order-downloads.php:65
+msgid "Nunca"
+msgstr "Nunca"
+
+#: includes/admin/tabs/about.php:38
+msgid "Nunca expira"
+msgstr "Nunca expira"
+
+#: includes/admin/tabs/about.php:75 includes/admin/tabs/about.php:129
+#: includes/admin/tabs/about.php:145
+msgid "Não"
+msgstr "Não"
+
+#: includes/admin/tabs/about.php:24 includes/admin/tabs/about.php:51
+msgid "Não disponível"
+msgstr "Não disponível"
+
+#: includes/classes/class-wc-account-genius-updater.php:245
+msgid "Não foi possível verificar atualizações para o plugin Account Genius."
+msgstr "Não foi possível verificar atualizações para o plugin Account Genius."
+
+#: includes/templates/my-account/downloads.php:39
+msgid "Não há downloads disponíveis ainda."
+msgstr "Não há downloads disponíveis ainda."
+
+#: includes/templates/my-account/form-login.php:155
+msgid "Não tem uma conta?"
+msgstr "Não tem uma conta?"
+
+#: includes/templates/my-account/lost-password-confirmation.php:25
+msgid "O e-mail de redefinição de senha foi enviado."
+msgstr "O e-mail de redefinição de senha foi enviado."
+
+#. 1: order number 2: order date 3: order status
+#: includes/templates/my-account/view-order.php:28
+#, php-format
+msgid "O pedido #%1$s foi feito em %2$s e atualmente é %3$s."
+msgstr "O pedido #%1$s foi feito em %2$s e atualmente é %3$s."
+
+#: includes/templates/order/order-details.php:89
+msgid "Observação:"
+msgstr "Observação:"
+
+#: includes/admin/settings.php:56
+msgid "Ops! Ocorreu um erro."
+msgstr "Ops! Ocorreu um erro."
+
+#: includes/templates/my-account/my-address.php:45
+msgid "Os endereços a seguir serão usados na finalização da compra por padrão."
+msgstr ""
+"Os endereços a seguir serão usados na finalização da compra por padrão."
+
+#: includes/classes/class-wc-account-genius-avatar.php:160
+msgid "Ou clique para procurar seu arquivo"
+msgstr "Ou clique para procurar seu arquivo"
+
+#: includes/templates/my-account/navigation.php:27
+msgid "Painel"
+msgstr "Painel"
+
+#: includes/templates/order/form-tracking.php:26
+msgid ""
+"Para rastrear seu pedido, digite seu ID do pedido na caixa abaixo e "
+"pressione o botão \"Rastrear\". Isso foi fornecido a você em seu recibo e no "
+"e-mail de confirmação que você deveria ter recebido."
+msgstr ""
+"Para rastrear seu pedido, digite seu ID do pedido na caixa abaixo e "
+"pressione o botão \"Rastrear\". Isso foi fornecido a você em seu recibo e no "
+"e-mail de confirmação que você deveria ter recebido."
+
+#: includes/templates/my-account/downloads.php:37
+msgid "Pesquisar produtos"
+msgstr "Pesquisar produtos"
+
+#: includes/templates/my-account/form-lost-password.php:40
+msgid "Preencha seu e-mail abaixo."
+msgstr "Preencha seu e-mail abaixo."
+
+#: includes/templates/my-account/my-subscriptions.php:66
+msgid "Próximo"
+msgstr "Próximo"
+
+#: includes/templates/order/form-tracking.php:37
+msgid "Rastrear"
+msgstr "Rastrear"
+
+#: includes/templates/my-account/form-lost-password.php:53
+msgid "Redefinir senha"
+msgstr "Redefinir senha"
+
+#: includes/templates/my-account/form-login.php:156
+#: includes/templates/my-account/form-login.php:243
+#: includes/templates/my-account/form-login.php:243
+msgid "Registrar-se"
+msgstr "Registrar-se"
+
+#: includes/admin/tabs/about.php:301
+msgid "Reportar problemas"
+msgstr "Reportar problemas"
+
+#: includes/classes/class-wc-account-genius-api.php:266
+msgid "Resposta desconhecida"
+msgstr "Resposta desconhecida"
+
+#: includes/classes/class-wc-account-genius-api.php:290
+msgid "Resposta vazia."
+msgstr "Resposta vazia."
+
+#: includes/templates/my-account/form-edit-account.php:95
+msgid "Salvar alterações"
+msgstr "Salvar alterações"
+
+#: includes/templates/my-account/form-edit-address.php:58
+msgid "Salvar endereço"
+msgstr "Salvar endereço"
+
+#: includes/admin/settings.php:17
+msgid "Salvo com sucesso"
+msgstr "Salvo com sucesso"
+
+#: includes/templates/my-account/form-login.php:127
+#: includes/templates/my-account/form-login.php:128
+#: includes/templates/my-account/form-login.php:214
+#: includes/templates/my-account/form-login.php:215
+msgid "Senha"
+msgstr "Senha"
+
+#: includes/templates/my-account/form-edit-account.php:54
+msgid "Senha atual (deixe em branco para não alterar)"
+msgstr "Senha atual (deixe em branco para não alterar)"
+
+#: includes/admin/tabs/about.php:103
+msgid "Servidor"
+msgstr "Servidor"
+
+#: includes/templates/my-account/form-edit-account.php:44
+msgid ""
+"Será assim que seu nome será exibido na seção de contas e nas avaliações"
+msgstr ""
+"Será assim que seu nome será exibido na seção de contas e nas avaliações"
+
+#: includes/templates/my-account/form-login.php:207
+msgid "Seu melhor e-mail"
+msgstr "Seu melhor e-mail"
+
+#: includes/admin/tabs/about.php:75 includes/admin/tabs/about.php:133
+#: includes/admin/tabs/about.php:149
+msgid "Sim"
+msgstr "Sim"
+
+#: includes/admin/settings.php:80
+msgid "Sobre"
+msgstr "Sobre"
+
+#: includes/templates/my-account/form-edit-account.php:36
+msgid "Sobrenome"
+msgstr "Sobrenome"
+
+#: includes/templates/my-account/my-subscriptions.php:23
+#: includes/templates/my-account/my-subscriptions.php:38
+msgid "Status"
+msgstr "Status"
+
+#: includes/admin/tabs/about.php:11
+msgid "Status da licença:"
+msgstr "Status da licença:"
+
+#: includes/admin/tabs/about.php:67
+msgid "Status do sistema:"
+msgstr "Status do sistema:"
+
+#: includes/admin/tabs/about.php:45
+msgid "Sua chave de licença:"
+msgstr "Sua chave de licença:"
+
+#: includes/templates/my-account/form-login.php:235
+msgid "Sua senha será gerada e enviada para seu e-mail."
+msgstr "Sua senha será gerada e enviada para seu e-mail."
+
+#: includes/templates/my-account/my-subscriptions.php:24
+#: includes/templates/my-account/my-subscriptions.php:41
+msgctxt "table heading"
+msgid "Próximo pagamento"
+msgstr "Próximo pagamento"
+
+#: includes/templates/my-account/my-subscriptions.php:25
+msgctxt "table heading"
+msgid "Total"
+msgstr "Total"
+
+#: includes/admin/tabs/about.php:176
+msgid "Tamanho máximo da postagem do PHP:"
+msgstr "Tamanho máximo da postagem do PHP:"
+
+#: includes/admin/tabs/about.php:264
+msgid "Tamanho máximo de envio do PHP:"
+msgstr "Tamanho máximo de envio do PHP:"
+
+#: includes/admin/tabs/about.php:18
+msgid "Tipo da licença:"
+msgstr "Tipo da licença:"
+
+#: includes/admin/settings.php:33
+msgid "Todos os recursos agora estão ativados!"
+msgstr "Todos os recursos agora estão ativados!"
+
+#: includes/admin/settings.php:46
+msgid "Todos os recursos agora estão desativados!"
+msgstr "Todos os recursos agora estão desativados!"
+
+#: includes/templates/order/form-tracking.php:37
+msgid "Track"
+msgstr "Track"
+
+#: wc-account-genius.php:308 wc-account-genius.php:318
+msgid "Trapaceando?"
+msgstr "Trapaceando?"
+
+#: includes/templates/my-account/lost-password-confirmation.php:29
+msgid ""
+"Um e-mail de redefinição de senha foi enviada para o endereço de e-mail da "
+"sua conta, mas pode levar alguns minutos para aparecer na sua caixa de "
+"entrada. Aguarde pelo menos 10 minutos antes de tentar novamente ou "
+"verifique sua caixa de spam."
+msgstr ""
+"Um e-mail de redefinição de senha foi enviada para o endereço de e-mail da "
+"sua conta, mas pode levar alguns minutos para aparecer na sua caixa de "
+"entrada. Aguarde pelo menos 10 minutos antes de tentar novamente ou "
+"verifique sua caixa de spam."
+
+#: includes/classes/class-wc-account-genius-updater.php:238
+msgid "Uma nova versão do plugin Account Genius está disponível."
+msgstr "Uma nova versão do plugin Account Genius está disponível."
+
+#: includes/templates/my-account/my-subscriptions.php:47
+msgctxt "Usado no atributo de dados. Escapou"
+msgid "Total"
+msgstr "Total"
+
+#: includes/templates/my-account/form-lost-password.php:42
+msgid "Use o código para alterar sua senha em nosso site seguro."
+msgstr "Use o código para alterar sua senha em nosso site seguro."
+
+#: includes/templates/my-account/form-login.php:201
+msgid "Usuário"
+msgstr "Usuário"
+
+#: includes/templates/my-account/form-login.php:117
+msgid "Usuário ou e-mail"
+msgstr "Usuário ou e-mail"
+
+#: includes/admin/tabs/about.php:229
+msgid "Valor mínimo recomendado é 10000"
+msgstr "Valor mínimo recomendado é 10000"
+
+#: includes/admin/tabs/about.php:251
+msgid "Valor mínimo recomendado é 128M"
+msgstr "Valor mínimo recomendado é 128M"
+
+#: includes/admin/tabs/about.php:207
+msgid "Valor mínimo recomendado é 180"
+msgstr "Valor mínimo recomendado é 180"
+
+#: includes/admin/tabs/about.php:185 includes/admin/tabs/about.php:273
+msgid "Valor mínimo recomendado é 64M"
+msgstr "Valor mínimo recomendado é 64M"
+
+#: includes/admin/tabs/about.php:220
+msgid "Variáveis máximas de entrada do PHP:"
+msgstr "Variáveis máximas de entrada do PHP:"
+
+#: includes/templates/my-account/my-subscriptions.php:78
+#: includes/templates/my-account/orders.php:181
+msgid "Ver produtos"
+msgstr "Ver produtos"
+
+#: includes/classes/class-wc-account-genius-updater.php:208
+msgid "Verificar atualizações"
+msgstr "Verificar atualizações"
+
+#: includes/admin/tabs/about.php:105
+msgid "Versão do PHP:"
+msgstr "Versão do PHP:"
+
+#: includes/admin/tabs/about.php:84
+msgid "Versão do WooCommerce:"
+msgstr "Versão do WooCommerce:"
+
+#: includes/admin/tabs/about.php:70
+msgid "Versão do WordPress:"
+msgstr "Versão do WordPress:"
+
+#: includes/templates/my-account/my-subscriptions.php:51
+msgctxt "view a subscription"
+msgid "Ver"
+msgstr "Ver"
+
+#: includes/templates/my-account/my-address.php:67
+msgid "Você ainda não configurou este tipo de endereço."
+msgstr "Você ainda não configurou este tipo de endereço."
+
+#: includes/templates/my-account/my-subscriptions.php:73
+msgid "Você chegou ao fim das assinaturas. Vá para a %primeira página%s."
+msgstr "Você chegou ao fim das assinaturas. Vá para a %primeira página%s."
+
+#: includes/templates/my-account/my-subscriptions.php:81
+msgid "Você não tem assinaturas ativas."
+msgstr "Você não tem assinaturas ativas."
+
+#: includes/templates/my-account/my-subscriptions.php:62
+msgid "Voltar"
+msgstr "Voltar"
+
+#: includes/admin/tabs/about.php:13
+msgid "Válida"
+msgstr "Válida"
+
+#: includes/admin/tabs/about.php:82
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: includes/admin/tabs/about.php:68
+msgid "WordPress"
+msgstr "WordPress"
+
+#: includes/admin/tabs/about.php:74
+msgid "WordPress Multisite:"
+msgstr "WordPress Multisite:"

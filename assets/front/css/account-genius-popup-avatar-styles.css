@@ -1,0 +1,157 @@
+#upload-avatar-container {
+  position: fixed;
+}
+
+.container-actions-avatar {
+  display: flex;
+  justify-content: center;
+  margin-top: -2rem;
+}
+
+#upload-avatar {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2.5rem;
+  height: 2.5rem;
+  min-width: 2rem;
+  min-height: 2rem;
+  padding: 0;
+}
+
+#upload-avatar > i {
+  margin: 0;
+  font-size: 1rem;
+}
+
+#remove-avatar {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 5rem;
+}
+
+#upload-avatar-container {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.6);
+  opacity: 0;
+  visibility: hidden;
+  display: flex !important;
+  justify-content: center;
+  align-items: center;
+  z-index: 9999;
+  transition: opacity 0.3s ease, visibility 0s linear 0.3s;
+}
+
+#upload-avatar-container.show {
+  opacity: 1;
+  visibility: visible;
+  transform: none;
+  transition: opacity 0.3s ease, visibility 0s linear 0s;
+}
+
+#upload-avatar-content {
+  background-color: #fff;
+  padding: 1rem 1.5rem 2rem 1.5rem;
+  border-radius: 0.5rem;
+  width: 550px;
+  height: auto;
+  overflow: auto;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  text-align: center;
+  overflow: hidden;
+  transform: translate(0, -50px);
+  transition: transform 0.3s ease-out;
+}
+
+@media screen and (max-width: 992px) {
+  #upload-avatar-content {
+    width: 95%;
+  }
+}
+
+#upload-avatar-container.show #upload-avatar-content {
+  transform: none;
+}
+
+#upload-avatar-header {
+  display: flex;
+  flex-shrink: 0;
+  align-items: center;
+  justify-content: flex-end;
+  margin-bottom: 2rem;
+}
+
+#close-popup-avatar {
+  position: static !important;
+}
+
+.fs-sm {
+  font-size: 0.875rem !important;
+}
+
+label.custom-file-label {
+  cursor: pointer;
+  transition: color 0.25s ease-in-out;
+}
+
+label.custom-file-label:hover {
+  color: #008aff;
+}
+
+#drop-area {
+  border: 2px dashed #d2d5e1;
+  border-radius: 0.5rem;
+  padding: 1rem;
+  text-align: center;
+}
+
+#drop-area.drag-over {
+  border-color: #008aff;
+}
+
+.drag-text {
+  font-size: 1rem;
+  color: #9397ad;
+  display: flex;
+  flex-direction: column;
+}
+
+.drag-text i {
+  font-size: 4rem;
+  opacity: 0.8;
+}
+
+.file-list {
+  margin-top: 0.5rem;
+}
+
+.file-item {
+  margin-bottom: 1rem;
+  font-size: 0.875rem;
+  color: #008aff;
+}
+
+.wc-account-genius-info-upload {
+  display: flex;
+  align-content: center;
+  flex-wrap: wrap;
+  margin-top: 1rem;
+  justify-content: center;
+  align-items: center;
+  color: #9397ad;
+}
+
+.wc-account-genius-info-upload span {
+  font-size: 0.75rem;
+}
+
+.user-avatar img {
+  border-radius: 100px !important;
+  border: 3px solid #f7f7fc !important;
+  padding: 0.5em;
+}
