@@ -30,6 +30,13 @@ Você pode instalar um plugin WordPress de duas maneiras: via o painel de admini
 
 ### Registro de alterações (Changelogs):
 
+Versão 2.1.2 (14/07/2024)
+* Correção de bugs
+* Otimizações
+* Arquivo de tradução pt-BR atualizado
+* Arquivo de tradução en-US atualizado
+* Arquivo de tradução es-ES atualizado
+
 Versão 2.1.1 (14/07/2024)
 * Correção de bugs
 
