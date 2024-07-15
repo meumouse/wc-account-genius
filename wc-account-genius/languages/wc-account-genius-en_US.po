@@ -1,0 +1,926 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Account Genius for WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-10 02:46+0000\n"
+"PO-Revision-Date: 2024-07-15 01:36+0000\n"
+"Last-Translator: \n"
+"Language-Team: English (United States)\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.7; wp-6.5.5\n"
+"X-Domain: wc-account-genius"
+
+#: includes/templates/my-account/orders.php:94
+#, php-format
+msgid "%1$s for %2$s item"
+msgid_plural "%1$s for %2$s items"
+msgstr[0] "%1$s for %2$s item"
+msgstr[1] "%1$s for %2$s items"
+
+#: includes/templates/order/order-downloads.php:59
+msgid "&infin;"
+msgstr "∞"
+
+#: wc-account-genius.php:267
+msgid ""
+"<strong>Account Genius para WooCommerce</strong> requer a versão do PHP 7.4 "
+"ou maior. Contate o suporte da sua hospedagem para realizar a atualização."
+msgstr ""
+"<strong>Account Genius for WooCommerce</strong> requires PHP version 7.4 or higher. Please contact your hosting provider to update."
+
+#: wc-account-genius.php:282
+msgid ""
+"<strong>Account Genius para WooCommerce</strong> requer a versão do "
+"WooCommerce 6.0 ou maior. Faça a atualização do plugin WooCommerce."
+msgstr ""
+"<strong>Account Genius for WooCommerce</strong> requires WooCommerce version 6.0 or higher. Please update the WooCommerce plugin."
+
+#: wc-account-genius.php:301
+msgid ""
+"<strong>Account Genius para WooCommerce</strong> requer que <strong>"
+"WooCommerce</strong> esteja instalado e ativado."
+msgstr ""
+"<strong>Account Genius for WooCommerce</strong> requires <strong>WooCommerce</strong> to be installed and activated."
+
+#: includes/classes/class-license.php:380
+msgid "A extensão cURL está faltando."
+msgstr "The cURL extension is missing."
+
+#: includes/admin/settings.php:46
+msgid "A licença foi desativada"
+msgstr "The license has been deactivated"
+
+#: includes/admin/settings.php:71
+msgid "A licença não é permitida para este produto."
+msgstr "The license is not allowed for this product."
+
+#: includes/admin/class-admin-options.php:342
+#, php-format
+msgid "A nova guia %s foi adicionada com sucesso!."
+msgstr "The new tab %s has been successfully added!"
+
+#: includes/classes/class-updater.php:248
+msgid "A versão do plugin Account Genius é a mais recente."
+msgstr "The Account Genius plugin is up to date."
+
+#: includes/admin/tabs/about.php:124
+msgid "A versão mínima exigida do PHP é 7.2"
+msgstr "The minimum required PHP version is 7.2"
+
+#: includes/admin/tabs/about.php:103
+msgid "A versão mínima exigida do WooCommerce é 6.0"
+msgstr "The minimum required WooCommerce version is 6.0"
+
+#. page title
+#: includes/admin/class-admin-options.php:58
+msgid "Account Genius"
+msgstr "Account Genius"
+
+#. parent page slug
+#. Name of the plugin
+#: includes/admin/class-admin-options.php:57 includes/admin/settings.php:11
+msgid "Account Genius para WooCommerce"
+msgstr "Account Genius for WooCommerce" 
+
+#: includes/templates/my-account/my-address.php:62
+msgid "Adicionar"
+msgstr "Add"
+
+#: includes/admin/tabs/tabs.php:155
+msgid "Adicionar nova guia"
+msgstr "Add new tab"
+
+#: includes/admin/settings.php:202
+msgid ""
+"Ao redefinir as configurações do plugin, todas opções serão removidas, "
+"voltando ao estado original. Sua licença não será removida."
+msgstr ""
+"By resetting the plugin settings, all options will be removed, returning to the original state. Your license will not be removed."
+
+#: includes/classes/class-assets.php:90
+msgid "Arquivo enviado com sucesso"
+msgstr "File uploaded successfully"
+
+#: includes/classes/class-avatar.php:174
+msgid "Arraste e solte a imagem aqui"
+msgstr "Drag and drop image here"
+
+#: includes/admin/settings.php:139
+msgid "Arraste e solte o arquivo .key aqui"
+msgstr "Drag and drop the .key file here"
+
+#: includes/admin/settings.php:26
+msgid "As configurações foram atualizadas!"
+msgstr "The settings have been updated!"
+
+#: includes/templates/my-account/my-subscriptions.php:20
+msgid "Assinatura"
+msgstr "Subscription"
+
+#: includes/admin/settings.php:200
+msgid "Atenção! Você realmente deseja redefinir as configurações?"
+msgstr "Warning! Do you really want to reset the settings?"
+
+#: includes/admin/tabs/options.php:32
+msgid "Ativar exibição de ícones"
+msgstr "Enable icon display"
+
+#: includes/admin/settings.php:179 includes/admin/tabs/about.php:67
+msgid "Ativar licença"
+msgstr "Activate license"
+
+#: includes/admin/tabs/options.php:43
+msgid "Ativar o envio de imagem de perfil"
+msgstr "Enable profile image upload"
+
+#: includes/admin/tabs/options.php:10
+msgid "Ativar substituição do modelo padrão"
+msgstr "Enable default template override"
+
+#: includes/admin/tabs/options.php:21
+msgid "Ativar substituição do modelo padrão de avisos"
+msgstr "Enable default notices template override"
+
+#: includes/admin/tabs/tabs.php:45
+msgid "Ativar/Desativar esta guia"
+msgstr "Enable/Disable this tab"
+
+#: includes/admin/tabs/design.php:27
+msgid ""
+"Ative esta opção para inserir um fundo inclinado na página de Minha conta do "
+"WooCommerce."
+msgstr ""
+"Enable this option to insert a slanted background on the WooCommerce My Account page."
+
+#: includes/admin/tabs/options.php:44
+msgid "Ative esta opção para permitir que o usuário altere sua foto de perfil."
+msgstr "Enable this option to allow the user to change their profile picture."
+
+#: includes/admin/tabs/options.php:33
+msgid "Ative esta opção para que os ícones sejam carregados no front-end."
+msgstr "Enable this option to load icons on the front-end."
+
+#: includes/admin/tabs/options.php:11
+msgid ""
+"Ative esta opção para substituir o modelo padrão da página de Minha conta do "
+"WooCommerce."
+msgstr ""
+"Enable this option to override the default template of the WooCommerce My Account page."
+
+#: includes/admin/tabs/options.php:22
+msgid ""
+"Ative esta opção para substituir o modelo padrão de avisos do WooCommerce."
+msgstr ""
+"Enable this option to override the default WooCommerce notices template."
+
+#: includes/admin/tabs/about.php:90
+msgid "Ativo"
+msgstr "Active"
+
+#: includes/templates/my-account/view-order.php:37
+msgid "Atualizações de pedidos"
+msgstr "Order updates"
+
+#: includes/admin/settings.php:79
+msgid "Cache de ativação limpo"
+msgstr "Activation cache cleared"
+
+#: includes/templates/my-account/orders.php:169
+msgid "Carregar mais pedidos"
+msgstr "Load more orders"
+
+#: includes/templates/my-account/orders.php:165
+msgid "Carregar pedidos anteriores"
+msgstr "Load previous orders"
+
+#: includes/admin/settings.php:16
+msgid "Central de ajuda"
+msgstr "Help Center"
+
+#: includes/classes/class-assets.php:86 includes/admin/tabs/tabs.php:93
+msgid "Classe CSS da guia"
+msgstr "Tab CSS class"
+
+#: includes/admin/tabs/tabs.php:203
+msgid "Classe CSS da guia (Opcional)"
+msgstr "Tab CSS class (Optional)"
+
+#: includes/classes/class-assets.php:88 includes/admin/tabs/tabs.php:97
+#: includes/admin/tabs/tabs.php:207
+msgid "Classe CSS personalizada."
+msgstr "Custom CSS class."
+
+#: includes/classes/class-assets.php:79 includes/admin/tabs/tabs.php:86
+#: includes/admin/tabs/tabs.php:196
+msgid "Classe do ícone Boxicons."
+msgstr "Boxicons icon class."
+
+#: includes/admin/settings.php:133
+msgid "Clique aqui para gerar seu arquivo de licença"
+msgstr "Click here to generate your license file"
+
+#: includes/classes/class-assets.php:81 includes/admin/tabs/tabs.php:105
+#: includes/admin/tabs/tabs.php:214
+msgid ""
+"Coloque aqui o conteúdo que você deseja exibir na guia. É permitido HTML e "
+"shortcodes. Ex.: [content id="10580"]"
+msgstr ""
+"Place the content you want to display in the tab here. HTML and shortcodes are allowed. Ex.: [content id="10580"]"
+
+#. 1: first result 2: last result 3: total results
+#: includes/templates/my-account/orders.php:145
+#, php-format
+msgctxt "com primeiro e último pedido"
+msgid "Mostrando %1$d de %2$d pedido"
+msgid_plural "Mostrando %1$d de %2$d pedido"
+msgstr[0] "Showing %1$d of %2$d order"
+msgstr[1] "Showing %1$d of %2$d orders"
+
+#. 1: first result 2: last result 3: total results
+#: includes/templates/my-account/orders.php:148
+#, php-format
+msgctxt "com primeiro e último pedido"
+msgid "Mostrando %1$d&ndash;%2$d de %3$d pedido"
+msgid_plural "Mostrando %1$d&ndash;%2$d de %3$d pedidos"
+msgstr[0] "Showing %1$d&ndash;%2$d of %3$d order"
+msgstr[1] "Showing %1$d&ndash;%2$d of %3$d orders"
+
+#: includes/admin/settings.php:168 includes/admin/tabs/about.php:57
+msgid "Comprar licença"
+msgstr "Buy license"
+
+#: includes/templates/order/order-again.php:22
+msgid "Comprar novamente"
+msgstr "Buy again"
+
+#: wc-account-genius.php:317
+msgid "Configurar"
+msgstr "Configure"
+
+#: includes/classes/class-assets.php:70
+msgid "Configurar guia"
+msgstr "Configure tab"
+
+#: includes/admin/tabs/tabs.php:36
+#, php-format
+msgid "Configurar guia <strong class="tab-name">%s</strong>"
+msgstr "Configure tab <strong class="tab-name">%s</strong>"
+
+#: includes/admin/tabs/tabs.php:161
+msgid "Configurar nova guia"
+msgstr "Configure new tab"
+
+#: includes/templates/my-account/form-edit-account.php:79
+msgid "Confirmar nova senha"
+msgstr "Confirm new password"
+
+#: includes/templates/my-account/form-login.php:224
+#: includes/templates/my-account/form-login.php:225
+msgid "Confirmar senha"
+msgstr "Confirm password"
+
+#: includes/classes/class-assets.php:80 includes/admin/tabs/tabs.php:104
+#: includes/admin/tabs/tabs.php:213
+msgid "Conteúdo da guia"
+msgstr "Tab content"
+
+#: includes/admin/tabs/design.php:11
+msgid "Cor principal"
+msgstr "Main color"
+
+#: includes/admin/tabs/tabs.php:249
+msgid "Criar nova guia"
+msgstr "Create new tab"
+
+#: includes/admin/settings.php:175 includes/admin/tabs/about.php:63
+msgid "Código da licença"
+msgstr "License code"
+
+#: includes/classes/class-license.php:717
+msgid "Dados inválidos."
+msgstr "Invalid data."
+
+#: includes/classes/class-assets.php:76 includes/admin/tabs/tabs.php:69
+msgid "Define o endpoint que será usado como link permanente para esta guia."
+msgstr "Defines the endpoint that will be used as a permanent link for this tab."
+
+#: includes/classes/class-assets.php:74 includes/admin/tabs/tabs.php:59
+msgid "Define o título que será exibido para esta guia."
+msgstr "Defines the title that will be displayed for this tab."
+
+#: includes/classes/class-assets.php:78 includes/admin/tabs/tabs.php:79
+#: includes/admin/tabs/tabs.php:189
+msgid ""
+"Define o ícone que será exibido ao lado do título desta guia. Ou deixe em "
+"branco para não exibir."
+msgstr ""
+"Defines the icon that will be displayed next to the title of this tab. Or leave it blank to not display."
+
+#: includes/admin/tabs/about.php:90
+msgid "Desativado"
+msgstr "Disabled"
+
+#: includes/admin/tabs/about.php:48
+msgid "Desativar licença"
+msgstr "Deactivate license"
+
+#: includes/admin/tabs/about.php:306
+msgid "Desligado"
+msgstr "Off"
+
+#: includes/templates/order/order-details.php:44
+msgid "Detalhes do pedido"
+msgstr "Order details"
+
+#: wc-account-genius.php:337
+msgid "Documentação"
+msgstr "Documentation"
+
+#: includes/admin/tabs/about.php:135
+msgid "DOMDocument:"
+msgstr "DOMDocument:"
+
+#: includes/templates/order/order-downloads.php:24
+msgid "Downloads"
+msgstr "Downloads"
+
+#: includes/templates/my-account/form-login.php:119
+#: includes/templates/my-account/form-login.php:208
+msgid "E-mail"
+msgstr "Email"
+
+#: includes/templates/order/form-tracking.php:34
+msgid "E-mail de cobrança"
+msgstr "Billing email"
+
+#: includes/templates/order/form-tracking.php:35
+msgid "E-mail que você usou durante a finalização da compra."
+msgstr "Email you used during checkout."
+
+#: includes/templates/my-account/my-address.php:62
+msgid "Editar"
+msgstr "Edit"
+
+#: includes/classes/class-assets.php:71 includes/admin/tabs/tabs.php:31
+msgid "Editar guia"
+msgstr "Edit tab"
+
+#: includes/templates/order/form-tracking.php:31
+msgid "Encontrado no e-mail de confirmação do seu pedido."
+msgstr "Found in your order confirmation email."
+
+#: includes/templates/my-account/form-edit-address.php:20
+#: includes/templates/my-account/my-address.php:26
+#: includes/templates/my-account/my-address.php:35
+#: includes/templates/order/order-details-customer.php:26
+msgid "Endereço de cobrança"
+msgstr "Billing address"
+
+#: includes/templates/my-account/form-edit-account.php:48
+msgid "Endereço de e-mail"
+msgstr "Email address"
+
+#: includes/templates/my-account/form-edit-address.php:20
+#: includes/templates/my-account/my-address.php:27
+#: includes/templates/order/order-details-customer.php:50
+msgid "Endereço de entrega"
+msgstr "Shipping address"
+
+#: includes/classes/class-assets.php:75 includes/admin/tabs/tabs.php:68
+#: includes/admin/tabs/tabs.php:178
+msgid "Endpoint da guia"
+msgstr "Tab endpoint"
+
+#: includes/templates/my-account/form-login.php:152
+#: includes/templates/my-account/form-login.php:246
+msgid "Entrar"
+msgstr "Login"
+
+#: includes/classes/class-avatar.php:186
+msgid "Enviar"
+msgstr "Submit"
+
+#: includes/templates/my-account/form-lost-password.php:41
+msgid "Enviaremos um e-mail com um código temporário."
+msgstr "We will send you an email with a temporary code."
+
+#: includes/classes/class-avatar.php:192
+msgid "Envie uma imagem JPG, JPEG, GIF, PNG ou WebP. Tamanho máximo de 5MB."
+msgstr "Upload a JPG, JPEG, GIF, PNG or WebP image. Maximum size of 5MB."
+
+#: includes/classes/class-avatar.php:143
+msgid "Erro ao enviar arquivo."
+msgstr "Error uploading file."
+
+#: includes/classes/class-license.php:415
+#, php-format
+msgid "Erro cURL: %s"
+msgstr "cURL Error: %s"
+
+#: includes/classes/class-license.php:291
+#, php-format
+msgid "Erro JSON: %s"
+msgstr "JSON Error: %s"
+
+#: includes/templates/my-account/form-login.php:146
+msgid "Esqueceu sua senha?"
+msgstr "Forgot your password?"
+
+#: includes/admin/tabs/tabs.php:46
+msgid ""
+"Esta é uma guia nativa do WooCommerce e não pode ser removida, apenas "
+"desativada."
+msgstr ""
+"This is a native WooCommerce tab and cannot be removed, only disabled."
+
+#: includes/classes/class-avatar.php:139
+msgid "Este tipo de arquivo não é permitido."
+msgstr "This file type is not allowed."
+
+#: includes/admin/settings.php:112
+msgid "Estilos"
+msgstr "Styles"
+
+#: includes/admin/tabs/design.php:26
+msgid "Exibir fundo inclinado na página Minha conta"
+msgstr "Show slanted background on My Account page"
+
+#: includes/admin/tabs/about.php:151
+msgid "Extensão cURL:"
+msgstr "cURL Extension:"
+
+#: includes/admin/tabs/about.php:170
+msgid "Extensão OpenSSL:"
+msgstr "OpenSSL Extension:"
+
+#. Description of the plugin
+msgid ""
+"Extensão que altera o modelo de página minha conta padrão do WooCommerce por "
+"um modelo profissional e responsivo."
+msgstr ""
+"Extension that changes the default WooCommerce my account page template to a professional and responsive one."
+
+#: includes/admin/settings.php:15
+msgid ""
+"Extensão que permite alterar o modelo de página minha conta padrão do "
+"WooCommerce por um modelo profissional e responsivo. Se precisar de ajuda "
+"para configurar, acesse nossa"
+msgstr ""
+"Extension that allows you to change the default WooCommerce my account page template to a professional and responsive one. If you need help configuring it, visit our"
+
+#: includes/admin/class-admin-options.php:352
+msgid "Falha ao atualizar as guias."
+msgstr "Failed to update tabs."
+
+#: includes/admin/settings.php:36 includes/admin/settings.php:47
+#: includes/admin/settings.php:91 includes/classes/class-assets.php:72
+#: includes/admin/tabs/tabs.php:162 includes/admin/tabs/tabs.php:261
+msgid "Fechar"
+msgstr "Close"
+
+#: includes/classes/class-avatar.php:96
+msgid "Foto de perfil alterada com sucesso!"
+msgstr "Profile picture changed successfully!"
+
+#: includes/classes/class-avatar.php:88
+msgid "Foto de perfil removida com sucesso!"
+msgstr "Profile picture removed successfully!"
+
+#: includes/templates/order/form-tracking.php:25
+msgctxt "front-end"
+msgid "Formulário de rastreamento de pedidos"
+msgstr "Order Tracking Form"
+
+#: includes/functions.php:59
+msgctxt "front-end"
+msgid "Histórico de pedidos"
+msgstr "Order History"
+
+#: includes/functions.php:65
+msgctxt "front-end"
+msgid "Meus endereços"
+msgstr "My Addresses"
+
+#: includes/functions.php:53
+msgctxt "front-end"
+msgid "Minha conta"
+msgstr "My Account"
+
+#: includes/functions.php:62
+msgctxt "front-end"
+msgid "Métodos de pagamento"
+msgstr "Payment Methods"
+
+#: includes/functions.php:69
+msgctxt "front-end"
+msgid "Painel"
+msgstr "Dashboard"
+
+#: includes/admin/tabs/about.php:302
+msgid "Função PHP \"file_get_content\":"
+msgstr "PHP Function \"file_get_content\":"
+
+#: includes/admin/settings.php:104
+msgid "Geral"
+msgstr "General"
+
+#: includes/admin/class-admin-options.php:341
+msgid "Guia adicionada com sucesso."
+msgstr "Tab added successfully."
+
+#: includes/admin/settings.php:108
+msgid "Guias"
+msgstr "Tabs"
+
+#: includes/templates/my-account/my-subscriptions.php:33
+#, php-format
+msgctxt "hash antes do número do pedido"
+msgid "#%s"
+msgstr "#%s"
+
+#. Author URI of the plugin
+msgid "https://meumouse.com/"
+msgstr "https://meumouse.com/"
+
+#. URI of the plugin
+msgid "https://meumouse.com/plugins/account-genius/"
+msgstr "https://meumouse.com/plugins/account-genius/"
+
+#: includes/templates/my-account/my-subscriptions.php:32
+msgid "ID"
+msgstr "ID"
+
+#: includes/templates/order/form-tracking.php:30
+msgid "ID do pedido"
+msgstr "Order ID"
+
+#: includes/admin/tabs/about.php:12
+msgid "Informações sobre a licença:"
+msgstr "License Information:"
+
+#: includes/admin/tabs/tabs.php:179
+msgid ""
+"Informe o endpoint que será usado como link permanente para a nova guia."
+msgstr ""
+"Enter the endpoint that will be used as a permanent link for the new tab."
+
+#: includes/classes/class-assets.php:85 includes/admin/tabs/tabs.php:129
+#: includes/admin/tabs/tabs.php:238
+msgid "Informe o link de destino da guia."
+msgstr "Enter the destination link for the tab."
+
+#: includes/admin/tabs/tabs.php:169
+msgid "Informe o título que será exibido para a nova guia."
+msgstr "Enter the title that will be displayed for the new tab."
+
+#: includes/admin/tabs/about.php:61
+msgid "Informe sua licença abaixo para desbloquear todos os recursos."
+msgstr "Enter your license below to unlock all features."
+
+#: includes/templates/my-account/form-lost-password.php:49
+msgid "Insira seu endereço de e-mail"
+msgstr "Enter your email address"
+
+#: includes/admin/tabs/about.php:19
+msgid "Inválida"
+msgstr "Invalid"
+
+#: includes/admin/class-admin-options.php:323
+msgid "Já existe uma guia com o mesmo ID."
+msgstr "A tab with the same ID already exists."
+
+#: includes/templates/my-account/form-login.php:246
+msgid "Já tem uma conta? "
+msgstr "Already have an account?"
+
+#: includes/templates/my-account/view-order.php:43
+msgid "l jS \\o\\f F Y, h:ia"
+msgstr "l jS \\o\\f F Y, h:ia" // This seems to be a date format, keeping it as is.
+
+#: includes/templates/my-account/form-login.php:142
+msgid "Lembrar de mim"
+msgstr "Remember me"
+
+#: includes/admin/settings.php:35
+msgid "Licença ativada com sucesso!"
+msgstr "License activated successfully!"
+
+#: includes/admin/tabs/about.php:31
+#, php-format
+msgid "Licença expira em: %s"
+msgstr "License expires on: %s"
+
+#: includes/classes/class-license.php:953
+msgid "Licença expirada"
+msgstr "License expired"
+
+#: includes/admin/tabs/about.php:310
+msgid "Ligado"
+msgstr "On"
+
+#: includes/admin/tabs/about.php:260
+msgid "Limite de memória do PHP:"
+msgstr "PHP Memory Limit:"
+
+#: includes/admin/tabs/about.php:216
+msgid "Limite de tempo do PHP:"
+msgstr "PHP Time Limit:"
+
+#: includes/admin/settings.php:154 includes/admin/settings.php:169
+#: includes/admin/tabs/about.php:322
+msgid "Limpar cache de ativação"
+msgstr "Clear activation cache"
+
+#: includes/classes/class-assets.php:84 includes/admin/tabs/tabs.php:128
+#: includes/admin/tabs/tabs.php:237
+msgid "Link de redirecionamento"
+msgstr "Redirect link"
+
+#: includes/templates/my-account/my-account.php:63
+msgid "Menu da conta"
+msgstr "Account menu"
+
+#. Author of the plugin
+msgid "MeuMouse.com"
+msgstr "MeuMouse.com"
+
+#: includes/admin/tabs/about.php:89
+msgid "Modo de depuração do WordPress:"
+msgstr "WordPress Debug Mode:"
+
+#: includes/templates/my-account/orders.php:136
+msgid "Mostrando o único pedido"
+msgstr "Showing the only order"
+
+#. %d: total results
+#: includes/templates/my-account/orders.php:139
+msgid "Mostrando todos os %d pedidos"
+msgid_plural "Mostrando todos os %d pedidos"
+msgstr[0] "Showing all %d order"
+msgstr[1] "Showing all %d orders"
+
+#: includes/templates/order/order-details-customer.php:30
+#: includes/templates/order/order-details-customer.php:54
+msgid "N/A"
+msgstr "N/A"
+
+#: includes/classes/class-avatar.php:123
+msgid "Nenhum arquivo selecionado."
+msgstr "No file selected."
+
+#: includes/templates/my-account/orders.php:177
+msgid "Nenhum pedido feito ainda."
+msgstr "No orders placed yet."
+
+#: includes/admin/tabs/about.php:17
+msgid "Nenhuma licença informada"
+msgstr "No license provided"
+
+#: includes/templates/my-account/form-edit-account.php:29
+msgid "Nome"
+msgstr "First name"
+
+#: includes/templates/my-account/form-login.php:202
+msgid "Nome completo"
+msgstr "Full name"
+
+#: includes/classes/class-assets.php:73 includes/admin/tabs/tabs.php:58
+#: includes/admin/tabs/tabs.php:168
+msgid "Nome da guia"
+msgstr "Tab name"
+
+#: includes/templates/my-account/form-edit-account.php:43
+msgid "Nome de exibição"
+msgstr "Display name"
+
+#: includes/admin/settings.php:131
+msgid "Notamos que teve problemas de conexão ao tentar ativar sua licença"
+msgstr "We noticed you had connection issues while trying to activate your license"
+
+#: includes/classes/class-assets.php:68
+msgid "Nova guia"
+msgstr "New tab"
+
+#: includes/templates/my-account/form-edit-account.php:68
+msgid "Nova senha (deixe em branco para não alterar)"
+msgstr "New password (leave blank to leave unchanged)"
+
+#: includes/classes/class-assets.php:69
+msgid "nova-guia"
+msgstr "new-tab"
+
+#: includes/templates/order/order-downloads.php:65
+msgid "Nunca"
+msgstr "Never"
+
+#: includes/classes/class-license.php:947
+msgid "Nunca expira"
+msgstr "Never expires"
+
+#: includes/admin/tabs/about.php:86 includes/admin/tabs/about.php:144
+#: includes/admin/tabs/about.php:160 includes/admin/tabs/about.php:179
+msgid "Sim"
+msgstr "Yes"
+
+#: includes/admin/settings.php:206
+msgid "Sim, desejo redefinir"
+msgstr "Yes, I want to reset"
+
+#: includes/admin/settings.php:116
+msgid "Sobre"
+msgstr "About"
+
+#: includes/templates/my-account/form-edit-account.php:36
+msgid "Sobrenome"
+msgstr "Last name"
+
+#: includes/templates/my-account/my-subscriptions.php:21
+#: includes/templates/my-account/my-subscriptions.php:36
+msgid "Status"
+msgstr "Status"
+
+#: includes/admin/tabs/about.php:13
+msgid "Status da licença:"
+msgstr "License Status:"
+
+#: includes/admin/tabs/about.php:78
+msgid "Status do sistema:"
+msgstr "System Status:"
+
+#: includes/admin/tabs/about.php:33
+msgid "Sua chave de licença:"
+msgstr "Your license key:"
+
+#: includes/templates/my-account/form-login.php:235
+msgid "Sua senha será gerada e enviada para seu e-mail."
+msgstr "Your password will be generated and sent to your email."
+
+#: includes/templates/my-account/my-subscriptions.php:22
+#: includes/templates/my-account/my-subscriptions.php:39
+msgctxt "table heading"
+msgid "Próximo pagamento"
+msgstr "Next payment"
+
+#: includes/templates/my-account/my-subscriptions.php:23
+msgctxt "table heading"
+msgid "Total"
+msgstr "Total"
+
+#: includes/admin/tabs/about.php:194
+msgid "Tamanho máximo da postagem do PHP:"
+msgstr "PHP Post Max Size:"
+
+#: includes/admin/tabs/about.php:282
+msgid "Tamanho máximo de envio do PHP:"
+msgstr "PHP Max Upload Size:"
+
+#: includes/admin/tabs/about.php:30
+#, php-format
+msgid "Tipo da licença: %s"
+msgstr "License type: %s"
+
+#: includes/admin/settings.php:38
+msgid "Todos os recursos agora estão ativados!"
+msgstr "All features are now enabled!"
+
+#: includes/admin/settings.php:49
+msgid "Todos os recursos agora estão desativados!"
+msgstr "All features are now disabled!"
+
+#: includes/templates/order/form-tracking.php:37
+msgid "Rastrear"
+msgstr "Track"
+
+#: wc-account-genius.php:365 wc-account-genius.php:376
+msgid "Trapaceando?"
+msgstr "Cheating?"
+
+#: includes/templates/my-account/lost-password-confirmation.php:29
+msgid ""
+"Um e-mail de redefinição de senha foi enviada para o endereço de e-mail da "
+"sua conta, mas pode levar alguns minutos para aparecer na sua caixa de "
+"entrada. Aguarde pelo menos 10 minutos antes de tentar novamente ou "
+"verifique sua caixa de spam."
+msgstr ""
+"A password reset email has been sent to the email address on file for your account, but it may take several minutes to show up in your inbox. Please wait at least 10 minutes before trying again or check your spam folder."
+
+#: includes/classes/class-updater.php:237
+msgid "Uma nova versão do plugin Account Genius está disponível."
+msgstr "A new version of the Account Genius plugin is available."
+
+#: includes/templates/my-account/my-subscriptions.php:45
+msgctxt "Usado no atributo de dados. Escapou"
+msgid "Total"
+msgstr "Total"
+
+#: includes/templates/my-account/form-lost-password.php:42
+msgid "Use o código para alterar sua senha em nosso site seguro."
+msgstr "Use the code to change your password on our secure website."
+
+#: includes/templates/my-account/form-login.php:201
+msgid "Usuário"
+msgstr "Username"
+
+#: includes/templates/my-account/form-login.php:117
+msgid "Usuário ou e-mail"
+msgstr "Username or email"
+
+#: includes/admin/tabs/about.php:247
+msgid "Valor mínimo recomendado é 10000"
+msgstr "Minimum recommended value is 10000"
+
+#: includes/admin/tabs/about.php:269
+msgid "Valor mínimo recomendado é 128M"
+msgstr "Minimum recommended value is 128M"
+
+#: includes/admin/tabs/about.php:225
+msgid "Valor mínimo recomendado é 180"
+msgstr "Minimum recommended value is 180"
+
+#: includes/admin/tabs/about.php:203 includes/admin/tabs/about.php:291
+msgid "Valor mínimo recomendado é 64M"
+msgstr "Minimum recommended value is 64M"
+
+#: includes/admin/tabs/about.php:238
+msgid "Variáveis máximas de entrada do PHP:"
+msgstr "PHP Max Input Vars:"
+
+#: includes/templates/my-account/my-subscriptions.php:76
+#: includes/templates/my-account/orders.php:176
+msgid "Ver produtos"
+msgstr "View products"
+
+#: includes/classes/class-updater.php:204
+msgid "Verificar atualizações"
+msgstr "Check for updates"
+
+#: includes/admin/tabs/about.php:163
+#, php-format
+msgid "Versão %s"
+msgstr "Version %s"
+
+#: includes/admin/tabs/about.php:116
+msgid "Versão do PHP:"
+msgstr "PHP Version:"
+
+#: includes/admin/tabs/about.php:95
+msgid "Versão do WooCommerce:"
+msgstr "WooCommerce Version:"
+
+#: includes/admin/tabs/about.php:81
+msgid "Versão do WordPress:"
+msgstr "WordPress Version:"
+
+#: includes/templates/my-account/my-subscriptions.php:49
+msgctxt "view a subscription"
+msgid "Ver"
+msgstr "View"
+
+#: includes/templates/my-account/my-address.php:67
+msgid "Você ainda não configurou este tipo de endereço."
+msgstr "You have not set up this type of address yet."
+
+#: includes/templates/my-account/my-subscriptions.php:71
+msgid "Você chegou ao fim das assinaturas. Vá para a %primeira página%s."
+msgstr "You have reached the end of the subscriptions. Go to the %first page%s." 
+
+#: includes/templates/my-account/my-subscriptions.php:79
+msgid "Você não tem assinaturas ativas."
+msgstr "You have no active subscriptions."
+
+#: includes/admin/settings.php:132
+msgid ""
+"Você pode fazer upload do arquivo .key da licença para fazer sua ativação "
+"manual."
+msgstr ""
+"You can upload your license .key file to activate it manually."
+
+#: includes/templates/my-account/my-subscriptions.php:60
+msgid "Voltar"
+msgstr "Back"
+
+#: includes/admin/tabs/about.php:15
+msgid "Válida"
+msgstr "Valid"
+
+#: includes/admin/tabs/about.php:93
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: includes/admin/tabs/about.php:79
+msgid "WordPress"
+msgstr "WordPress"
+
+#: includes/admin/tabs/about.php:85
+msgid "WordPress Multisite:"
+msgstr "WordPress Multisite:"
+
+#: includes/classes/class-assets.php:77 includes/admin/tabs/tabs.php:78
+#: includes/admin/tabs/tabs.php:188
+msgid "Ícone da guia"
+msgstr "Tab icon"
